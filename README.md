@@ -1,6 +1,8 @@
 # web_project_1_id
-Indonesian web project 1
-
+Indonesia web project 1
 
 ## kontributor
-avid
+muh-avid 
+
+### note
+still on update for index.html & css file
